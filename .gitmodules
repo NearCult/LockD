@@ -1,0 +1,6 @@
+[submodule "apps/lockd-app"]
+	path = apps/lockd-app
+	url = git@github.com:NearCult/LockD-app.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:NearCult/LockD-backend.git
